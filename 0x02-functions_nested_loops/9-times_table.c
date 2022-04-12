@@ -23,6 +23,7 @@ _putchar(' ');
 _putchar(' ');
 }
 _putchar(mult + '0');
+}
 else
 {
 _putchar(' ');
