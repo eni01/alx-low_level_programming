@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - program that prints  _putchar.
+ * main - program that prints _putchar.
  *
  * Return: int
  */
@@ -14,7 +14,7 @@ char put_char[8] = "_putchar";
 
 while (n < 8)
 {
-_putchar(put_char[n]):
+_putchar(put_char[n]);
 n += 1;
 }
 _putchar('\n');
